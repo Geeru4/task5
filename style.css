@@ -1,0 +1,19 @@
+.main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    width: 45%;
+    background-color: bisque;
+}
+
+
+.text-content {
+    color: rgb(212, 22, 19);
+}
+
+
+.button:hover {
+    color: white;
+    background-color: black;
+}
